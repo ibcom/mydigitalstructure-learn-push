@@ -2,6 +2,9 @@
 
 Example app that pushes messages to a user.
 
+Based on notes @
+https://learn.mydigitalstructure.cloud/learn-function-automation
+
 Supports;
 - site context; so can one instance of an app on say AWS lambda can support multiple triggers.
 - factory; factories that are in context of the site.
